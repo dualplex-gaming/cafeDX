@@ -1,2 +1,2 @@
 # cafeDX
-cafeOS (cafe Dual eXperience) is an ultra-minimal Linux distribution designed for dual screen ARM devices.
+cafeDX (cafe Dual eXperience) is a seamless gaming frontend designed for dual screen Linux ARM devices.
