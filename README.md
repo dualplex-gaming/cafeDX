@@ -1,2 +1,2 @@
 # cafeDX
-cafeDX (cafe Dual eXperience) is a seamless gaming frontend designed for dual screen Linux ARM devices.
+cafeDX (cafe Dual eXperience) is a seamless gaming frontend that allows you to utilize Dualplex, a virtual console platform. 
